@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Email/Email.iml" filepath="$PROJECT_DIR$/Email/Email.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/EmailExtraction.iml" filepath="$PROJECT_DIR$/.idea/EmailExtraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewExtractor/NewExtractor.iml" filepath="$PROJECT_DIR$/NewExtractor/NewExtractor.iml" />
     </modules>
   </component>
 </project>
