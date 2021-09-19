@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92dff41f-4048-4a12-88d1-60455b463be9" name="Default Changelist" comment="" />
+    <list default="true" id="92dff41f-4048-4a12-88d1-60455b463be9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewExtractor/src/Extractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewExtractor/src/Extractor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -60,6 +64,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -75,9 +80,16 @@
       <recent name="$PROJECT_DIR$/NewExtractor/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Extractor">
+  <component name="RunManager" selected="Application.ExtractorRegex">
     <configuration name="Extractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Extractor" />
+      <module name="NewExtractor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtractorRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtractorRegex" />
       <module name="NewExtractor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtractorRegex" />
         <item itemvalue="Application.Extractor" />
         <item itemvalue="Application.ReadingText" />
         <item itemvalue="Gradle./Users/psadias/IdeaProjects/EmailExtraction" />
