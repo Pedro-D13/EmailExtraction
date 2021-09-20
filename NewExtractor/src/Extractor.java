@@ -32,5 +32,10 @@ public class Extractor {
             System.out.println("File not found");
         }
     }
+
+
+    public static void sayHi(){
+        System.out.println("Hi");
+    }
 }
 
